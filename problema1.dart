@@ -7,7 +7,8 @@ print("diego ramirez dominguez mat:22308051281091");
 
   // Calcular la suma de los elementos de la lista
   int suma = numeros.reduce((a, b) => a + b);
-
+   // Imprimir la lista 
+  print(numeros);
   // Imprimir el resultado
   print("La suma de los elementos es: $suma");
 }
