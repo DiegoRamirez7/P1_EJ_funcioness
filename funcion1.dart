@@ -8,7 +8,7 @@ print("diego ramirez");
 }
 
   void main(){
-  //diego ramirez dominguez a.22308051281091return
+  //diego ramirez dominguez a.22308051281091
   //llamar a la funcion saludar
   
   print("diego ramirez dominguez mat:22308051281091");
